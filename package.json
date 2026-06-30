@@ -4,7 +4,7 @@
   "scripts": {
     "start": "node index.js",
     "build": "vite build",
-    "test": "echo \"All tests passed successfully!\" && exit 0"
+    "test": "echo \"No tests configured yet, but pipeline works!\""
   },
   "dependencies": {
     "express": "^4.19.2",
